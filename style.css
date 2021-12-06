@@ -1,0 +1,55 @@
+body {
+    position: relative;
+}
+
+#form {
+    margin: 50px;
+    border: 5px solid wheat;
+    width: 150px;
+    height: 200px;
+}
+
+#filter {
+    margin: 50px;
+    border: 5px solid wheat;
+    width: 150px;
+    height: 350px;
+}
+
+#users {
+    border: 5px solid wheat;
+    margin-left: 20%;
+    width: 70%;
+    position: absolute;
+    top: 0;
+    -o-object-fit: cover;
+    object-fit: cover;
+    z-index: 1;
+    display: block;
+    table-layout: fixed;
+    max-height: auto;
+    overflow-y: scroll;
+    height: 800px;
+}
+
+#city {
+    position: absolute;
+    z-index: 2;
+    bottom: 10px;
+    left: 10px;
+}
+
+#countUser {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 10px;
+}
+
+.card {
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 350px;
+    width: 300px;
+}
