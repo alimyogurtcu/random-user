@@ -1,4 +1,4 @@
 # random-user
 Generating and filtering random user using Randomuser API
 
-# alimyogurtcu.github.io/random-user
+# https://alimyogurtcu.github.io/projects/random-user/
